@@ -1,3 +1,6 @@
 [submodule "most-frequent/uring-positioned-io"]
 	path = most-frequent/uring-positioned-io
 	url = https://github.com/st1page/uring-positioned-io
+[submodule "libaio-futures"]
+	path = libaio-futures
+	url = https://github.com/st1page/libaio-futures
